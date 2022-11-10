@@ -4,6 +4,14 @@ public class Apllication{
 
     aValue = 42;
 
+    short ashort = 93;
+    long aLong = 888;
+    double aDouble = 3.14;
+
+    System.out.println(ashort);
+    
     System.out.println(aValue);
+    System.out.println(aLong);
+    System.out.println(aDouble);
     }
 }
