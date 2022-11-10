@@ -4,6 +4,6 @@ public class Apllication{
 
     aValue = 42;
 
-    System.out.println(aValue)
+    System.out.println(aValue);
     }
 }
