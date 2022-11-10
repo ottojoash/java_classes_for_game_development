@@ -16,5 +16,8 @@ public class Apllication{
     System.out.println(aValue);
     System.out.println(aLong);
     System.out.println(aDouble);
+    System.out.println(aChar);
+    System.out.println(aBoolean);
+    System.out.println(aByte);
     }
 }
